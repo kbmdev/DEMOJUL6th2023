@@ -1,0 +1,7 @@
+site_name: "demojul6th2023"
+docs_dir: docs
+site_description: "DEMOJUL6th2023"
+nav:
+  - Introduction: index.md
+plugins:
+  - techdocs-core
